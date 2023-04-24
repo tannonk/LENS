@@ -1,6 +1,6 @@
 import math
 
-from .models import load_from_checkpoint
+from lens.models import load_from_checkpoint
 
 class LENS:
 
